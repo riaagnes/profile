@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.856cb3e1.chunk.css",
+    "main.js": "/static/js/main.2a028ba9.chunk.js",
+    "main.js.map": "/static/js/main.2a028ba9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c70048c8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c70048c8.js.map",
+    "static/css/2.89f067aa.chunk.css": "/static/css/2.89f067aa.chunk.css",
+    "static/js/2.6eb77c21.chunk.js": "/static/js/2.6eb77c21.chunk.js",
+    "static/js/2.6eb77c21.chunk.js.map": "/static/js/2.6eb77c21.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b3b1ed2a8cebf4927615ab6d4d75f402.js": "/precache-manifest.b3b1ed2a8cebf4927615ab6d4d75f402.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.856cb3e1.chunk.css.map": "/static/css/main.856cb3e1.chunk.css.map",
+    "static/js/2.6eb77c21.chunk.js.LICENSE.txt": "/static/js/2.6eb77c21.chunk.js.LICENSE.txt",
+    "static/media/BlackBoard.jpg": "/static/media/BlackBoard.270a0b97.jpg",
+    "static/media/ChocoPizza.jpg": "/static/media/ChocoPizza.10c5904a.jpg",
+    "static/media/Rain event.jpg": "/static/media/Rain event.9eea85c3.jpg",
+    "static/media/me.jpg": "/static/media/me.bc17c6a3.jpg",
+    "static/media/snow.jpg": "/static/media/snow.819012af.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c70048c8.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.6eb77c21.chunk.js",
+    "static/css/main.856cb3e1.chunk.css",
+    "static/js/main.2a028ba9.chunk.js"
+  ]
+}
